@@ -181,7 +181,8 @@ header {
 }
 
 .team-sosmed {
-  font-size: 20px;  
+  font-size: 30px;
+  line-height: 3px  
 }
 
 .team-sosmed a:hover {
